@@ -1,0 +1,21 @@
+{
+  "name": "agro",
+  "version": "1.0.0",
+  "description": "AgroSwap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Contract"
+  ],
+  "author": "SharkRed",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.6",
+    "zeppelin-solidity": "^1.12.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.2.0"
+  }
+}
